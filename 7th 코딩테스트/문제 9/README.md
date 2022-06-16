@@ -1,5 +1,5 @@
 ## 제로베이스 프론트엔드 스쿨\_BrokenBridge
-
+<span style='color:red'>[해당 문제는 leetcode 84. Largest Rectangle in Histogram 입니다.](https://leetcode.com/problems/largest-rectangle-in-histogram/) </span>
 ### [문제 설명]
 
 넓이가 같은 n개의 나무판자를 붙여 만든 다리가 있습니다. 태풍의 영향으로 다리가 부서지고, 각 나무판자의 길이가 들쭉날쭉하게 잘려 나가서 더욱 튼튼한 철골 다리로 새로 만들기로 했습니다.
