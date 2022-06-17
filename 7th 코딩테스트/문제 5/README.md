@@ -1,5 +1,5 @@
 ## 제로베이스 프론트엔드 스쿨\_TakeTheSand
-
+<span style='color:red'>[해당 문제는 292. Nim Game 입니다.](https://leetcode.com/problems/nim-game/)</span>
 ### [문제 설명]
 
 여름을 맞아 가족들과 함께 해수욕장을 방문했습니다.
